@@ -1,0 +1,15 @@
+{
+  "version": "0.1.1",
+  "notes": "- 当前公开安装包版本。",
+  "pub_date": "2026-05-16T07:21:26.831Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXoyNHYxNC8rSkVUZm5BZU1WVU1jOVcyNkREYlFUZ0k2MmRET0V3dzVjaXJlOVIvTWdhM3VkUEFlTFlablBPb2JaSW52Y3E1d1d3WHkyVXB4UzI3elFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTE2MDg2CWZpbGU6QmF6YWFySW5zaWdodF8wLjEuMV94NjQtc2V0dXAuZXhlCitVbE83bEZLT212cGQzYnFnQTJKZjBGSTZTTC92KzZlS1hoVmFkTGtPeUNhZXlQaHNQeXdmNklBcVZGb2FHclZLY25DdTcxb0tRbFRLNm5LblpsL0FRPT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v0.1.1/BazaarInsight_0.1.1_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXdWRElHU2FKOG5OMk9GQjJtakg5MFpQSVVieGMxTHYxbmxYVThYVUh0TjZ0Z25hb2ZDV01pMEd6dFRFeTNycjNUT0p2UE5tTzh0K2NTbmN4WUVnMGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTE2MDgxCWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CmhrUVNSNlVFMDIvNVlSRHJXRi9SOVhTeWtGUnFYM2tCYkluRmx0SUZIQVpJekdiTHhzR3JuOVZZNWhPWUxsQXV4SkFCV1d0S0pZRmZlNlpIa2RtVUNnPT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v0.1.1/BazaarInsight.app.tar.gz"
+    }
+  }
+}
