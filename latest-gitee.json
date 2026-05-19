@@ -1,15 +1,15 @@
 {
-  "version": "0.1.1",
-  "notes": "- 当前公开安装包版本。",
-  "pub_date": "2026-05-16T07:21:26.831Z",
+  "version": "0.1.2",
+  "notes": "- 安装管理页显示游戏内 Mod 版本，旧版本或缺失版本文件时提示更新。\n- 修复模拟器测试 fixture 与最新请求/触发器字段不一致的问题。",
+  "pub_date": "2026-05-19T13:40:22.729Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXoyNHYxNC8rSkVUZm5BZU1WVU1jOVcyNkREYlFUZ0k2MmRET0V3dzVjaXJlOVIvTWdhM3VkUEFlTFlablBPb2JaSW52Y3E1d1d3WHkyVXB4UzI3elFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTE2MDg2CWZpbGU6QmF6YWFySW5zaWdodF8wLjEuMV94NjQtc2V0dXAuZXhlCitVbE83bEZLT212cGQzYnFnQTJKZjBGSTZTTC92KzZlS1hoVmFkTGtPeUNhZXlQaHNQeXdmNklBcVZGb2FHclZLY25DdTcxb0tRbFRLNm5LblpsL0FRPT0K",
-      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v0.1.1/BazaarInsight_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTVLSTdwMmJBRTdhU0tmUGV0Unp4dFljWHVtTk0rMHk0MFhGQi9aK2RMVnJDeGIwNkg1b3J6Wkp3S3FQSHN4blZYWkg1aG1tWVFjQ0pEK2VuNkNSaUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk4MDIyCWZpbGU6QmF6YWFySW5zaWdodF8wLjEuMl94NjQtc2V0dXAuZXhlCldlYmlITlgvRk44bEN6dS93eVR0cFd1MXRaTTlnMWk0UjVMNGkrMmRVSDlIQlJ2K0dqTU96RU9tbC84bUlyQmtKYUFNTGUwZzBZS2xFTHFUUmp3T0JnPT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v0.1.2/BazaarInsight_0.1.2_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXdWRElHU2FKOG5OMk9GQjJtakg5MFpQSVVieGMxTHYxbmxYVThYVUh0TjZ0Z25hb2ZDV01pMEd6dFRFeTNycjNUT0p2UE5tTzh0K2NTbmN4WUVnMGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4OTE2MDgxCWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CmhrUVNSNlVFMDIvNVlSRHJXRi9SOVhTeWtGUnFYM2tCYkluRmx0SUZIQVpJekdiTHhzR3JuOVZZNWhPWUxsQXV4SkFCV1d0S0pZRmZlNlpIa2RtVUNnPT0K",
-      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v0.1.1/BazaarInsight.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRStxRHRsSUxhSHo4OFVZOVZxQnlKV1FFV29haGJVKzNXVTd5S3dOWWJ5bFR5bUFMcWZkcGs2V09YTnU5QUFTSmo0RTk3bVR1aXRzY2xFRnBONXhlVXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk4MDIyCWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CmM5cVlxRFh5OEFzRjAvcUJFcFVjaS9PWXhoQi9IaWNlRUFBYmlkMExCTElwY214eG9tNGRkU1c3bHp1WUYyRk5NV1dPUHpUUDVyalV4SFhNalcwTEN3PT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v0.1.2/BazaarInsight.app.tar.gz"
     }
   }
 }
