@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0",
-  "notes": "- 优化安装管理页面布局，提升桌面端安装状态和操作区的可读性。\n- 完善官方战斗回放对账工具和回放输入处理，减少边界场景下的模拟偏差。\n- 新增厨师高温、低温等运行时属性支持，补齐多张厨师卡牌的战斗配置。\n- 修复隐藏插槽效果会影响模拟结果的问题。",
-  "pub_date": "2026-05-20T09:23:50.199Z",
+  "version": "1.1.1",
+  "notes": "- Added automatic default language detection from the user's system language.\n- Preserved manually selected language preferences across sessions.\n- Restored metric labels in the per-second chart toggles.\n- Ensured multilingual BazaarDB item and skill resources are included in desktop builds.",
+  "pub_date": "2026-05-20T14:48:59.701Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTk1OHBobzIxOFZpY1ovV1FhUjBkMUhRSThma3h6dVAyQWY0SmplTzlIazBxY3pReVRBRjcydjhGaVNia25LbHBJUGYzN1FBRmpLckVRZWx4eDRsa3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjY5MDI5CWZpbGU6QmF6YWFySW5zaWdodF8xLjEuMF94NjQtc2V0dXAuZXhlCjVmbzVDbzE5RlZ6Y0JDMGlGbW9Pb2FTZjkwSFZ4cmUvV1NGU0tOWXpHVGVLR3RlMzFhSy9sdE95R05EeXlTSjR1bmhSS0hPc0xxaTh3S0VNVndnQkR3PT0K",
-      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.0/BazaarInsight_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTJOK2hmTjNGbitzaUk3ZDNORWU3Qk1LYzdDYUtJZGZlQzJESDY3ZU15eTA0SFVKV2l1azNmQkJlZkk3emQrMHJIbENmVEtCVlB2WG8rNHpLWENWN0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg4NTM4CWZpbGU6QmF6YWFySW5zaWdodF8xLjEuMV94NjQtc2V0dXAuZXhlCm9abnZUZkxYMmt0VUFhOVBFYzVjZUpNMlZhaTZXS1BBdkJ0a0g5Ulo1cHB5RzY5eTR0K2poRE1IT0tkaE9BRVA2cWZFVklKVURSZk5NUktHei95aER3PT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.1/BazaarInsight_1.1.1_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTZnL2RQU3AwNXdTd1ZhVXdUckV2Vkl0VEUycWR4Y1JmMWd5NjNSM1lVS3RkWmZOdFNITkFPb2RzSUwxMFB6RjRHLzg0UTJpeFZTK0g1S0JCWlkwUXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjY5MDMwCWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CkY0Nmp6VE1qOGhRVUdHaVpnZm9XY1h1b3RaTXFXNkU0MDhiMjVSTHVKQkxNYTJ5V3VSR3VyVi83SVRqcU91Wk16Ry8xQ2VTWThuY1o0V3BMaFBKYUJnPT0K",
-      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.0/BazaarInsight.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXgvQXdQWFdySkV4T0VRcG9vU0VmTzdXSFhUcDY5YVRaTWtjZHBJb3FsRGp5WDZzUEFjRUt0NVNWNGNYK0hiT2FYaTRJeXN1MXYrbEJSaHlITkJ6N1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg4NTM5CWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CjR4d2ZXQ0diMlFuanJzNHA1YkhWZjZMOFIxMCtMMVhGcGVUc0tGT1VuVjJ0S3NiaC9iMnh0UmV2YjI3VllkUERxNmVCRllMOE5sV0Uzd3NYODdqQ0F3PT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.1/BazaarInsight.app.tar.gz"
     }
   }
 }
