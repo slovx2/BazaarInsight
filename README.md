@@ -22,10 +22,18 @@ If you installed it somewhere else, replace `/Applications/BazaarInsight.app` wi
 
 ## Screenshots
 
-### Simulation UI
+### Normal Simulation
 
-![Simulation UI](assets/normal.png)
+![Normal simulation](assets/normal.png)
 
-### Chinese UI
+### Line Chart
 
-![Chinese simulation UI](assets/normal-zh-CN.png)
+![Line chart](assets/chart.png)
+
+### Compare Mode
+
+![Compare mode](assets/compare.png)
+
+### Monster Simulation
+
+![Monster simulation](assets/monster.png)

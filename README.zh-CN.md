@@ -22,10 +22,18 @@ xattr -r -d com.apple.quarantine /Applications/BazaarInsight.app
 
 ## 功能截图
 
-### 中文界面
+### 普通模拟
 
-![中文模拟界面](assets/normal-zh-CN.png)
+![普通模拟](assets/normal-zh-CN.png)
 
-### 英文界面
+### 折线图
 
-![英文模拟界面](assets/normal.png)
+![折线图](assets/chart-zh-CN.png)
+
+### 对比模式
+
+![对比模式](assets/compare-zh-CN.png)
+
+### 怪物模拟
+
+![怪物模拟](assets/monster-zh-CN.png)
