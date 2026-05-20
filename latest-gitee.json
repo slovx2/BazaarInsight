@@ -1,14 +1,14 @@
 {
   "version": "1.1.1",
   "notes": "- Added automatic default language detection from the user's system language.\n- Preserved manually selected language preferences across sessions.\n- Restored metric labels in the per-second chart toggles.\n- Ensured multilingual BazaarDB item and skill resources are included in desktop builds.",
-  "pub_date": "2026-05-20T14:48:59.701Z",
+  "pub_date": "2026-05-20T14:50:14.269Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTJOK2hmTjNGbitzaUk3ZDNORWU3Qk1LYzdDYUtJZGZlQzJESDY3ZU15eTA0SFVKV2l1azNmQkJlZkk3emQrMHJIbENmVEtCVlB2WG8rNHpLWENWN0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg4NTM4CWZpbGU6QmF6YWFySW5zaWdodF8xLjEuMV94NjQtc2V0dXAuZXhlCm9abnZUZkxYMmt0VUFhOVBFYzVjZUpNMlZhaTZXS1BBdkJ0a0g5Ulo1cHB5RzY5eTR0K2poRE1IT0tkaE9BRVA2cWZFVklKVURSZk5NUktHei95aER3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTBUenEyZjFtWnhVRVB1OVZYY0RmZXNyQ1BBbkF6SjRQYndBTGh0UUN3VVZlVWVUWm5LdURzc08vRGFtallzbVd2Rm9oNk5tTE15V2FNL1FVancrZmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg4NjEzCWZpbGU6QmF6YWFySW5zaWdodF8xLjEuMV94NjQtc2V0dXAuZXhlCmFmSHNjd0JTNVRpTGxVNUVyMHZYVVB2cG40dHRPdnAvaksrcFFaV1I2SlYwa09KMDhRNnkxM2NMRGREZTU3VklKWFRsNk81S2kwQzV1YmZSczBudENRPT0K",
       "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.1/BazaarInsight_1.1.1_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXgvQXdQWFdySkV4T0VRcG9vU0VmTzdXSFhUcDY5YVRaTWtjZHBJb3FsRGp5WDZzUEFjRUt0NVNWNGNYK0hiT2FYaTRJeXN1MXYrbEJSaHlITkJ6N1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg4NTM5CWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CjR4d2ZXQ0diMlFuanJzNHA1YkhWZjZMOFIxMCtMMVhGcGVUc0tGT1VuVjJ0S3NiaC9iMnh0UmV2YjI3VllkUERxNmVCRllMOE5sV0Uzd3NYODdqQ0F3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXplY3A2a0dZZHNmeGxXa2U5dGZ6eHJPNVduOGpFK084dzZUNVNYY0dWRHpicEkybXEyV3RLVGoxbGxVYU1EYkN5UVAxY0NIRkNLVlJ4YmVTdFRtV2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg4NjE0CWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6Ci9STzBHN1JXU3NYOUFud05zT2xWSlJPQTlrYkFUU2owUTNEM0M0T3kyaHRmaTVKcEMvYkh3MEZ2UnRWb0s0NWN4NFRrZDM2aDJtc1RPTitYejVPT0FBPT0K",
       "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.1/BazaarInsight.app.tar.gz"
     }
   }
