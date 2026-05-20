@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0",
-  "notes": "- Improved the install management layout for clearer desktop install status and actions.\n- Improved official combat replay validation tools and replay input handling to reduce simulation edge-case differences.\n- Added runtime support for Jules heat and chill attributes, with combat configs for more Jules cards.\n- Fixed hidden slot effects incorrectly affecting simulation results.",
-  "pub_date": "2026-05-20T09:23:50.199Z",
+  "version": "1.1.1",
+  "notes": "- Added automatic default language detection from the user's system language.\n- Preserved manually selected language preferences across sessions.\n- Restored metric labels in the per-second chart toggles.\n- Ensured multilingual BazaarDB item and skill resources are included in desktop builds.",
+  "pub_date": "2026-05-20T14:50:14.269Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTk1OHBobzIxOFZpY1ovV1FhUjBkMUhRSThma3h6dVAyQWY0SmplTzlIazBxY3pReVRBRjcydjhGaVNia25LbHBJUGYzN1FBRmpLckVRZWx4eDRsa3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjY5MDI5CWZpbGU6QmF6YWFySW5zaWdodF8xLjEuMF94NjQtc2V0dXAuZXhlCjVmbzVDbzE5RlZ6Y0JDMGlGbW9Pb2FTZjkwSFZ4cmUvV1NGU0tOWXpHVGVLR3RlMzFhSy9sdE95R05EeXlTSjR1bmhSS0hPc0xxaTh3S0VNVndnQkR3PT0K",
-      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.0/BazaarInsight_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTBUenEyZjFtWnhVRVB1OVZYY0RmZXNyQ1BBbkF6SjRQYndBTGh0UUN3VVZlVWVUWm5LdURzc08vRGFtallzbVd2Rm9oNk5tTE15V2FNL1FVancrZmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg4NjEzCWZpbGU6QmF6YWFySW5zaWdodF8xLjEuMV94NjQtc2V0dXAuZXhlCmFmSHNjd0JTNVRpTGxVNUVyMHZYVVB2cG40dHRPdnAvaksrcFFaV1I2SlYwa09KMDhRNnkxM2NMRGREZTU3VklKWFRsNk81S2kwQzV1YmZSczBudENRPT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.1/BazaarInsight_1.1.1_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTZnL2RQU3AwNXdTd1ZhVXdUckV2Vkl0VEUycWR4Y1JmMWd5NjNSM1lVS3RkWmZOdFNITkFPb2RzSUwxMFB6RjRHLzg0UTJpeFZTK0g1S0JCWlkwUXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MjY5MDMwCWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CkY0Nmp6VE1qOGhRVUdHaVpnZm9XY1h1b3RaTXFXNkU0MDhiMjVSTHVKQkxNYTJ5V3VSR3VyVi83SVRqcU91Wk16Ry8xQ2VTWThuY1o0V3BMaFBKYUJnPT0K",
-      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.0/BazaarInsight.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXplY3A2a0dZZHNmeGxXa2U5dGZ6eHJPNVduOGpFK084dzZUNVNYY0dWRHpicEkybXEyV3RLVGoxbGxVYU1EYkN5UVAxY0NIRkNLVlJ4YmVTdFRtV2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Mjg4NjE0CWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6Ci9STzBHN1JXU3NYOUFud05zT2xWSlJPQTlrYkFUU2owUTNEM0M0T3kyaHRmaTVKcEMvYkh3MEZ2UnRWb0s0NWN4NFRrZDM2aDJtc1RPTitYejVPT0FBPT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.1/BazaarInsight.app.tar.gz"
     }
   }
 }
