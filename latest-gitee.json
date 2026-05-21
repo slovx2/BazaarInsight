@@ -1,14 +1,14 @@
 {
   "version": "1.1.3",
   "notes": "- Fixed Gitee desktop updater releases so duplicate same-name assets are removed before uploading new artifacts.\n- Reissued the desktop updater package after the 1.1.1 Gitee signature mismatch.\n- Reduced the Gitee desktop package to Chinese-only resources and removed the language selector from that build.",
-  "pub_date": "2026-05-21T12:48:20.979Z",
+  "pub_date": "2026-05-21T13:01:55.204Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTg0RE11bW9Dd1FJTW9CUElQcWZlL3lXSVFXaFRXaFRtVGdCVDdpNUd4RlNFTkhqRGlMMHlKcitHOS9MYkJlSXQrMUNmeFIwTmxuSUh1cDNuV1ExUndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzY3NzAwCWZpbGU6QmF6YWFySW5zaWdodF8xLjEuM194NjQtc2V0dXAuZXhlCmY3emluYktnWjFNL2M3YlRDOXE1akhPVVlQVllYWEJjWEcrSXBFNTFORXZSb0ppT0ZhYnd4Y3RTTUMzZHdmR0JtSFpteE9uaTFvVDNPRWVXaHVGTUJRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRSs5Zzl4M0xKVWFydldSUThoL3NzNmxoNEw5NG5DTjJQRWNaeURWelRHcFJPUVRNRitaYXBnYnJTdTJYRkdJUmU2UGlKYXREVTEvT3ZZcHp4bGVaRXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzY4NTE0CWZpbGU6QmF6YWFySW5zaWdodF8xLjEuM194NjQtc2V0dXAuZXhlCmx0Szludk1lMEF3cUZ5K08vMmFNb2JxQkd4b1ZMNEx4eFlCVCt3MjVxVXUxSlV2Q0xmTW9Rb3BkQ01Nb2ZBRlR1WE1JSTlxT3RKNnVZcFgvR3VLSkFnPT0K",
       "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.3/BazaarInsight_1.1.3_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTdpY3ZwcW9vbXphOWpVVkkrZjNZVHlCS1ByRVpRaFNDK1pTUE1TWGJqZEpHOE82bnArdUduRXMwdEkvR3VTV3dMd3ZvSlF5eFJpNXB0NC9NRWQ2WUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzY3NzAwCWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CkVpTEIvS1FEY0V0YVNmVDY5VVJPczl5anBMMUlnanJxS3VsT1JGQ2cySFY2MHljK2FISG0zMnRXNjVpeXVIRzJ3R3loTCtiZCtia1FqL0ozczdFaUJ3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTB4eU16NHVuOW01eTZ0NEJUcjhmUENDc3prZVQ2UXRJWkFtc01VSVBBN3psZFZpL2hqWG1IS25lK3UyZ2R6STJZRXBQeXlpRzdNeUtITW1WN0ZVQ3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzY4NTE1CWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CkVsOFA5U3R6dDhCOXhRTElnMzZobnJyamxuenpuQ3hoUjFGa0JqVDdvcEQ5dU1qRFhSTVU5cUJWb2RpdERaUkJZWExGK1diMGh5cGRQZVlKT3ZOS0FRPT0K",
       "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.3/BazaarInsight.app.tar.gz"
     }
   }
