@@ -1,15 +1,15 @@
 {
-  "version": "1.1.5",
-  "notes": "- Improved simulator accuracy with more official combat replay fixes for charge, freeze, crit targeting, fatal enchantment, and value growth edge cases.\n- Added support for deleting individual simulation history entries.\n- Refreshed bundled monster encounter data extracted from official combat replays.\n- Expanded the official replay validation archive and added faster monster replay metadata scanning.",
-  "pub_date": "2026-05-24T02:34:29.634Z",
+  "version": "1.1.6",
+  "notes": "- Improved simulator accuracy with a larger batch of official combat replay fixes and expanded replay validation coverage.\n- Refined more card DSL target pools, triggered effects, and opening-state calculations.\n- Refreshed bundled monster encounter data from 919 official combat replays, expanding coverage to 103 encounters.",
+  "pub_date": "2026-05-25T03:01:41.737Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTcwRzhPa2R2Z1ppS0pIS1pLeWJQMDdiQzhmdXM0TW83eFdoRkFUMHZrRDA1NnEvL1hIcHh3TGY1bmNQNzBsMmJHUXREb2tVRGRCb2JCVDJKWDlhZlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTkwMDY4CWZpbGU6QmF6YWFySW5zaWdodF8xLjEuNV94NjQtc2V0dXAuZXhlCmZxN3VTM2h3N2FJM053T3RGeXNWY0QrL09wa09Sd2ZVNktzbjcyQkZjcDgwU1dCSzNkTzRCMEZnMVlRYkhtMkxwaGt5UC83NE9keFgvTjZWZFdxTURRPT0K",
-      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.5/BazaarInsight_1.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXhJQUlHZnpuaW9TUThKY2d4TTBuTjkzSkpIZXE1WGsxem52aTQ1UGJydytBNnowWjdCN0VZb2pOMnN0ZFI5a3RTM0pOMnNSYjJRUFI5MklEd0NxVndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Njc4MTAxCWZpbGU6QmF6YWFySW5zaWdodF8xLjEuNl94NjQtc2V0dXAuZXhlCnFuMlQyei81MnZ4VEdQS2ZWS25aOGRDWjE5NncvTE9weGF5MVhZMWlJSmRjbUR2ckhEd0F3R05oeWNjc05nWWtEYWZWUVR5Mmx2TVRYM0pxaHl6OENRPT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.6/BazaarInsight_1.1.6_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRXhNR3o0R0Q4MFh3bXlUNEFjajcwQy9aT091cUpaSVc4eHpHUDRkZmYyd2lTbzRDVnlzaVF2V1hDZ0pyV0JwWFRMYk9DN1huenBpSkxjTFF5TUlYOUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTkwMDY5CWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CmZRQ2NncUVvc09wWmswdzNlNmkyc2ZObktJcXVtRGZ3MDQ2QkZ1dGI4RHFNZGdtcEZyS2dTeHlUbnIxdTh6SEpvRlgrL2taOE12UVQ0RVZqL2crNUJRPT0K",
-      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.5/BazaarInsight.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRejFQUTEvK21mRTJPcjRMTXBRSzJLNThqWDVYYkNCT0oyS2wrci9XUXpuZnBadUtFWWk4dDVXeHJRSVNPc1puQ3BXNXN3L3pIVUNXbExvUlMvMHFiak1qQzhvbEtjc2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Njc4MTAxCWZpbGU6QmF6YWFySW5zaWdodC5hcHAudGFyLmd6CmZ2MEE5SW1QZXFnSjk2YVRWZVhjdS9tY0xoWktXVEVvWmJpdi9nejIzeFVuRHUvR0RhN3kwTHB1djdaZEEvV2hBcGxzTjNsVDMyTnI3ekxRWStKVUJBPT0K",
+      "url": "https://gitee.com/songsiyu/BazaarInsight/releases/download/v1.1.6/BazaarInsight.app.tar.gz"
     }
   }
 }
